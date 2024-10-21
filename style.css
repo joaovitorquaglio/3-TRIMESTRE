@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Sixtyfour+Convergence&display=swap');
 
 :root {
-     --bg-color: #200909;
-    --primary-color: #a00707;
-    --secondary-color: #9b0707;
-    --font: "Nunito Sans", sans-serif;
+     --bg-color: #0c0c14;
+    --primary-color: #aa3234;
+    --secondary-color: #581f23;
+    --font: "Sixtyfour Convergence", sans-serif;
 }
 
 body {
@@ -13,6 +13,7 @@ body {
     font-family: var(--font);
     height: 100vh;
     margin: 0;
+    background-image: url(https://cdn.akamai.steamstatic.com/steam/apps/1604000/ss_733b3728a8a90103d0d4982e25c0ef190fe42174.1920x1080.jpg?t=1658165566)
 }
 
 header {
